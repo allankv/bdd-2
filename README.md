@@ -1,4 +1,4 @@
 bdd
 ===
 
-Biodiversity Data Digitizer
+Biodiversity Data Digitizer (BDD)
